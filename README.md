@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Smokez01!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Smokez01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 # 💻 Areas of knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
